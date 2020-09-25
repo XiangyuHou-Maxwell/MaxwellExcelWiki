@@ -86,4 +86,6 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 #---sphinx-themes-----
-html_theme = 'insegel'
+html_theme = 'sphinx_theme_pd'
+import sphinx_theme_pd
+html_theme_path = [sphinx_theme_pd.get_html_theme_path()]
