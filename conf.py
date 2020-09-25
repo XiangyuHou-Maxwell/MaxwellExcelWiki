@@ -85,7 +85,4 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-#---sphinx-themes-----
-html_theme = 'sphinx_theme_pd'
-import sphinx_theme_pd
-html_theme_path = [sphinx_theme_pd.get_html_theme_path()]
+html_theme = 'sphinx_rtd_theme'
