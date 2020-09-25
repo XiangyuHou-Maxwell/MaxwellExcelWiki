@@ -1,0 +1,46 @@
+已经安装的主题
+murray-0.6.4
+sphinx_bootstrap_theme
+pip install python-docs-theme
+html_theme = 'sphinx_rtd_theme'
+html_theme = 'alabaster'
+
+使用
+将项目里的文件夹 dou 复制到 docs/_themes/ 下
+修改 conf.py 中的 html_theme html_theme_path
+html_theme_path = ['_themes']
+html_theme = 'dou'
+
+
+import sphinx_bootstrap_theme
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+html_theme_options = {
+    'navbar_title': "Sandglass",
+    'globaltoc_depth': 2,
+    'globaltoc_includehidden': "true",
+    'navbar_class': "navbar navbar-inverse",
+    'navbar_fixed_top': "true",
+    'bootswatch_theme': "united",
+    'bootstrap_version': "3",
+}
+
+$ pip install sphinx_bootstrap_theme
+Collecting sphinx_bootstrap_theme
+  Downloading sphinx-bootstrap-theme-0.7.1.tar.gz (1.2 MB)
+     |████████████████████████████████| 1.2 MB 5.1 kB/s
+Requirement already satisfied: setuptools in d:\program\anaconda3\install\lib\site-packages (from sphinx_bootstrap_theme) (45.2.0.post20200210)
+Building wheels for collected packages: sphinx-bootstrap-theme
+  Building wheel for sphinx-bootstrap-theme (setup.py) ... done
+  Created wheel for sphinx-bootstrap-theme: filename=sphinx_bootstrap_theme-0.7.1-py3-none-any.whl size=1250224 sha256=6f7b45352d09af2873f84b1c04eb5581e6a9e600a3799774b5e76800994320c5
+  Stored in directory: c:\users\uygna\appdata\local\pip\cache\wheels\08\be\f3\01d145bc6faf769e37d9fb6f1d2f078bc8cd9725c9d883699c
+Successfully built sphinx-bootstrap-theme
+Installing collected packages: sphinx-bootstrap-theme
+Successfully installed sphinx-bootstrap-theme-0.7.1
+
+$ pip install murray
+Collecting murray
+  Downloading murray-0.6.4-py2.py3-none-any.whl (46 kB)
+     |████████████████████████████████| 46 kB 6.8 kB/s
+Installing collected packages: murray
+Successfully installed murray-0.6.4

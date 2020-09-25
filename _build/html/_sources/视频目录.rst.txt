@@ -1,0 +1,455 @@
+视频目录
+============================================
+
+Excel操作技巧 | 001 批量隔行插入空行 `Link <https://www.bilibili.com/video/BV1oE411w7EH>`_
+
+Excel操作技巧 | 002 快速插入多行空行 `Link <https://www.bilibili.com/video/BV1CE411c79F>`_
+
+Excel操作技巧 | 003 单元格的位置交换 `Link <https://www.bilibili.com/video/BV17E411F78k>`_
+
+Excel操作技巧 | 004 快速选择单元格区域 `Link <https://www.bilibili.com/video/BV1G7411m7p6>`_
+
+Excel操作技巧 | 005 调整行高列宽 `Link <https://www.bilibili.com/video/BV1Bk4y197LU>`_
+
+Excel操作技巧 | 006 复制粘贴可见单元格 `Link <https://www.bilibili.com/video/BV1qi4y1b7QW>`_
+
+Excel操作技巧 | 007 快速求和 `Link <https://www.bilibili.com/video/BV1r64y1M76Y>`_
+
+Excel操作技巧 | 008 快速填充空白单元格 `Link <https://www.bilibili.com/video/BV1L64y1u72a>`_
+
+Excel操作技巧 | 009 多表格批量操作 `Link <https://www.bilibili.com/video/BV1he411x7At>`_
+
+Excel操作技巧 | 010 批量新建表格 `Link <https://www.bilibili.com/video/BV1aA41187pK>`_
+
+Excel操作技巧 | 011 快速表格选择 `Link <https://www.bilibili.com/video/BV1ZK4y1C7NS>`_
+
+Excel操作技巧 | 012 等差序列填充 `Link <https://www.bilibili.com/video/BV1VK411L7kr>`_
+
+Excel操作技巧 | 013 填充柄自动填充 `Link <https://www.bilibili.com/video/BV1aa4y1t7Q1>`_
+
+Excel操作技巧 | 014 填充柄模式切换 `Link <https://www.bilibili.com/video/BV1S64y1M7oE>`_
+
+Excel操作技巧 | 015 快速插入日期时间 `Link <https://www.bilibili.com/video/BV1KZ4y1j7aR>`_
+
+Excel操作技巧 | 016 快速插入对错符号 `Link <https://www.bilibili.com/video/BV1NK411L7AF>`_
+
+Excel操作技巧 | 017 名称左右对齐 `Link <https://www.bilibili.com/video/BV1cQ4y1M7hp>`_
+
+Excel操作技巧 | 018 行列组合折叠 `Link <https://www.bilibili.com/video/BV17Q4y1K7Lw>`_
+
+Excel操作技巧 | 019 自定义顺序排序 `Link <https://www.bilibili.com/video/BV1za4y1t7Tt>`_
+
+Excel操作技巧 | 020 单元格内容换行 `Link <https://www.bilibili.com/video/BV1164y1u7cf>`_
+
+Excel操作技巧 | 021 数据录入的换行与回退 `Link <https://www.bilibili.com/video/BV1GT4y1G7g3>`_
+
+Excel操作技巧 | 022 自定义状态栏设置 `Link <https://www.bilibili.com/video/BV1yK411L76u>`_
+
+Excel操作技巧 | 023 文本公式计算 `Link <https://www.bilibili.com/video/BV1ce41147p6>`_
+
+Excel操作技巧 | 024 返回顶部和到达底部 `Link <https://www.bilibili.com/video/BV1rC4y1s7Nv>`_
+
+Excel操作技巧 | 025 单元格边界移动 `Link <https://www.bilibili.com/video/BV14C4y1s74L>`_
+
+Excel操作技巧 | 026 格式刷多次应用 `Link <https://www.bilibili.com/video/BV1rp4y1C7vS>`_
+
+Excel操作技巧 | 027 文本型数值转化 `Link <https://www.bilibili.com/video/BV1WV411Z7hk>`_
+
+Excel操作技巧 | 028 文本化显示公式 `Link <https://www.bilibili.com/video/BV1jK411j7DL>`_
+
+Excel操作技巧 | 029 数值型数字转化 `Link <https://www.bilibili.com/video/BV14A411b75K>`_
+
+Excel操作技巧 | 030 快速复制对象 `Link <https://www.bilibili.com/video/BV115411t7k2>`_
+
+Excel操作技巧 | 031 插入表格 `Link <https://www.bilibili.com/video/BV1qZ4y1x7La>`_
+
+Excel操作技巧 | 032 粘贴选项组合使用 `Link <https://www.bilibili.com/video/BV1Zp4y1C7Pp>`_
+
+Excel操作技巧 | 033 表格转化为区域 `Link <https://www.bilibili.com/video/BV16z411B7yE>`_
+
+Excel操作技巧 | 034 快速核对不同数据 `Link <https://www.bilibili.com/video/BV1w54y1R7yW>`_
+
+Excel操作技巧 | 035 单元格输入和编辑 `Link <https://www.bilibili.com/video/BV1nV411Z7Zc>`_
+
+Excel操作技巧 | 036 定义名称 `Link <https://www.bilibili.com/video/BV1y54y1Q7T9>`_
+
+Excel操作技巧 | 037 写公式必须要会的快捷键（局部运算F9） `Link <https://www.bilibili.com/video/BV1xf4y1S7fG>`_
+
+Excel操作技巧 | 038 找规律填充你真明白了吗（快速填充） `Link <https://www.bilibili.com/video/BV1564y1M7xy>`_
+
+Excel操作技巧 | 039 快速调整显示比例 `Link <https://www.bilibili.com/video/BV1hK4y1k7Xu>`_
+
+Excel操作技巧 | 040 写公式必须要会的快捷键2（引用模式切换F4） `Link <https://www.bilibili.com/video/BV13K41157LS>`_
+
+Excel操作技巧 | 041 多行文本合并拆分（剪贴板） `Link <https://www.bilibili.com/video/BV1ZQ4y1P7BU>`_
+
+Excel操作技巧 | 042 强制文本输入（'） `Link <https://www.bilibili.com/video/BV1764y1M7gg>`_
+
+Excel操作技巧 | 043 加粗斜体下划线删除线（CTRL+2345） `Link <https://www.bilibili.com/video/BV1nf4y1m7az>`_
+
+Excel操作技巧 | 044 通过查找进行定位（CTRL+F） `Link <https://www.bilibili.com/video/BV1D5411x7NG>`_
+
+Excel操作技巧 | 045 语法提示器使用 `Link <https://www.bilibili.com/video/BV1N5411s7KQ>`_
+
+Excel操作技巧 | 046 公式记忆键入（ALT+↓） `Link <https://www.bilibili.com/video/BV1J541147iM>`_
+
+Excel操作技巧 | 047 公式中输入双引号 `Link <https://www.bilibili.com/video/BV1dV411d7eV>`_
+
+Excel操作技巧 | 048 图片嵌入单元格 `Link <https://www.bilibili.com/video/BV1Cf4y1m7B6>`_
+
+Excel操作技巧 | 049 应用数组公式（CTRL+SHIFT+ENTER） `Link <https://www.bilibili.com/video/BV1oe411s78h>`_
+
+Excel操作技巧 | 050 图片嵌入图形 `Link <https://www.bilibili.com/video/BV1Hk4y1k7yK>`_
+
+Excel操作技巧 | 051 超上限时间格式 `Link <https://www.bilibili.com/video/BV1aA411t7MD>`_
+
+Excel操作技巧 | 052 预设格式代码获取 `Link <https://www.bilibili.com/video/BV1FA411q7a1>`_
+
+Excel操作技巧 | 053 保留自定义格式 `Link <https://www.bilibili.com/video/BV1Yt4y117k8>`_
+
+Excel操作技巧 | 054 批量粘贴 `Link <https://www.bilibili.com/video/BV16t4y117Za>`_
+
+Excel操作技巧 | 055 快速隐藏行列 `Link <https://www.bilibili.com/video/BV1fV411d7kK>`_
+
+Excel操作技巧 | 056 快速表转列 `Link <https://www.bilibili.com/video/BV1dZ4y1s7ji>`_
+
+Excel操作技巧 | 057 跳过空格合并粘贴 `Link <https://www.bilibili.com/video/BV1DK411W7gC>`_
+
+Excel操作技巧 | 058 删除所有图片 `Link <https://www.bilibili.com/video/BV1Hp4y1Q7qp>`_
+
+Excel操作技巧 | 059 添加选定多选单元 `Link <https://www.bilibili.com/video/BV1Be411W74k>`_
+
+Excel操作技巧 | 060 更改注释形状 `Link <https://www.bilibili.com/video/BV1KQ4y1K7Bo>`_
+
+Excel操作技巧 | 061 组合按钮位置修改 `Link <https://www.bilibili.com/video/BV1DV411C7RE>`_
+
+Excel操作技巧 | 062 删除隔行空行 `Link <https://www.bilibili.com/video/BV1k54y1D7NB>`_
+
+Excel操作技巧 | 063 记忆键入单元（ALT+↓） `Link <https://www.bilibili.com/video/BV1mt4y1C7RP>`_
+
+Excel操作技巧 | 064 科学计数快捷输入 `Link <https://www.bilibili.com/video/BV14v411z7i5>`_
+
+Excel操作技巧 | 065 不为筛选所动的编号 `Link <https://www.bilibili.com/video/BV1vv411z7RC>`_
+
+Excel操作技巧 | 066 新建工作簿工作表 `Link <https://www.bilibili.com/video/BV1Pg4y1z7Pm>`_
+
+Excel操作技巧 | 067 名称区域选择 `Link <https://www.bilibili.com/video/BV1bv411z7mX>`_
+
+Excel操作技巧 | 068 旋转图表 `Link <https://www.bilibili.com/video/BV1UK411H74p>`_
+
+Excel操作技巧 | 069 工资条制作 `Link <https://www.bilibili.com/video/BV16K4y1t75A>`_
+
+Excel操作技巧 | 070 单元格增删 `Link <https://www.bilibili.com/video/BV1tK4y1t7dm>`_
+
+Excel操作技巧 | 071 删除数据保留公式 `Link <https://www.bilibili.com/video/BV1Bt4y1C7sk>`_
+
+Excel操作技巧 | 072 货币百分比格式 `Link <https://www.bilibili.com/video/BV1TC4y1a7Tk>`_
+
+Excel操作技巧 | 073 数透表统计种类 `Link <https://www.bilibili.com/video/BV1EC4y1a7gL>`_
+
+Excel操作技巧 | 074 页面表格切换 `Link <https://www.bilibili.com/video/BV1Kt4y1y7Z8>`_
+
+Excel操作技巧 | 075 打印标题行 `Link <https://www.bilibili.com/video/BV1bD4y1D7J2>`_
+
+Excel操作技巧 | 076 记录单录入数据 `Link <https://www.bilibili.com/video/BV1GZ4y1H7Z2>`_
+
+Excel操作技巧 | 077 如何保护你的工作表1（锁定与隐藏） `Link <https://www.bilibili.com/video/BV1ig4y1i7po>`_
+
+Excel操作技巧 | 078 快速列转表 `Link <https://www.bilibili.com/video/BV1gk4y1z7Q4>`_
+
+Excel操作技巧 | 079 关闭所有文件 `Link <https://www.bilibili.com/video/BV1tz411i7Fi>`_
+
+Excel操作技巧 | 080 标题跨列居中 `Link <https://www.bilibili.com/video/BV1MA411B7pE>`_
+
+Excel操作技巧 | 081 批量加减乘除 `Link <https://www.bilibili.com/video/BV1P5411W7Pr>`_
+
+Excel操作技巧 | 082 标记重复值 `Link <https://www.bilibili.com/video/BV1VC4y1a7Ey>`_
+
+Excel操作技巧 | 083 防止重复录入 `Link <https://www.bilibili.com/video/BV1tZ4y1H75R>`_
+
+Excel操作技巧 | 084 小数取整 `Link <https://www.bilibili.com/video/BV13K4y147dN>`_
+
+Excel操作技巧 | 085 整行应用条件格式 `Link <https://www.bilibili.com/video/BV1QA411v73t>`_
+
+Excel操作技巧 | 086 冻结窗格 `Link <https://www.bilibili.com/video/BV1Ya4y1Y7jF>`_
+
+Excel操作技巧 | 087 分组插入空行 `Link <https://www.bilibili.com/video/BV1FD4y1Q7tL>`_
+
+Excel操作技巧 | 088 选取行列数据 `Link <https://www.bilibili.com/video/BV1RK4y1x7ac>`_
+
+Excel操作技巧 | 089 日期填充 `Link <https://www.bilibili.com/video/BV1Uz4y1Q7i7>`_
+
+Excel操作技巧 | 090 绘制正方正圆 `Link <https://www.bilibili.com/video/BV15T4y1J727>`_
+
+Excel操作技巧 | 091 快速列转表2 `Link <https://www.bilibili.com/video/BV1cv411B7DD>`_
+
+Excel操作技巧 | 092 贼贼硬的综合操作案例1 `Link <https://www.bilibili.com/video/BV1XD4y1D79j>`_
+
+Excel操作技巧 | 093 粘贴为数值快捷键 `Link <https://www.bilibili.com/video/BV1yf4y1y7q6>`_
+
+Excel操作技巧 | 094 内容重排拆分 `Link <https://www.bilibili.com/video/BV1ot4y1X76e>`_
+
+Excel操作技巧 | 095 重复上次操作 `Link <https://www.bilibili.com/video/BV1Fz411v74E>`_
+
+Excel操作技巧 | 096 斜线表头制作 `Link <https://www.bilibili.com/video/BV1QC4y187xt>`_
+
+Excel操作技巧 | 097 表格拆分视图 `Link <https://www.bilibili.com/video/BV1AD4y1S7hj>`_
+
+Excel操作技巧 | 098 批量填充工作表 `Link <https://www.bilibili.com/video/BV1tV41167Qa>`_
+
+Excel操作技巧 | 099 填充合并单元格 `Link <https://www.bilibili.com/video/BV1iA411i74T>`_
+
+Excel操作技巧 | 100 我家的Excel会唱歌 `Link <https://www.bilibili.com/video/BV1Fz411v7t8>`_
+
+Excel操作技巧 | 101 恢复原始排序 `Link <https://www.bilibili.com/video/BV1J54y1z7Mt>`_
+
+Excel操作技巧 | 102 创建超长序号列（区域快速跳转） `Link <https://www.bilibili.com/video/BV1xt4y1Q74h>`_
+
+Excel操作技巧 | 103 这个不会说不过去呀（长表格重复标题打印） `Link <https://www.bilibili.com/video/BV1q54y1q7DS>`_
+
+Excel操作技巧 | 104 自动记录当前时间 `Link <https://www.bilibili.com/video/BV1T54y1i7vW>`_
+
+Excel操作技巧 | 105 错误日期格式纠正 `Link <https://www.bilibili.com/video/BV1ED4y1U771>`_
+
+Excel操作技巧 | 106 图片照相机 `Link <https://www.bilibili.com/video/BV1FD4y1U7Vg>`_
+
+Excel操作技巧 | 107 自动键入小数点 `Link <https://www.bilibili.com/video/BV1Jz4y1Q7QS>`_
+
+Excel操作技巧 | 108 批量换行 `Link <https://www.bilibili.com/video/BV1h541187GT>`_
+
+Excel操作技巧 | 109 快速清除边框 `Link <https://www.bilibili.com/video/BV1PK411T7Cu>`_
+
+Excel操作技巧 | 110 快速核对数据2 `Link <https://www.bilibili.com/video/BV1B541187tf>`_
+
+Excel操作技巧 | 111 粘贴到可见单元格 `Link <https://www.bilibili.com/video/BV1gh411d7Bc>`_
+
+Excel操作技巧 | 112 粘贴到可见单元格2 `Link <https://www.bilibili.com/video/BV1k54y1i73s>`_
+
+Excel操作技巧 | 113 指定次数重复 `Link <https://www.bilibili.com/video/BV1ca4y1E73K>`_
+
+Excel操作技巧 | 114 多张图表组合 `Link <https://www.bilibili.com/video/BV1sy4y1y7Ko>`_
+
+Excel操作技巧 | 115 教你提取图片里的表格数据 `Link <https://www.bilibili.com/video/BV1Nk4y117ys>`_
+
+Excel操作技巧 | 116 综合操作案例2（数据倍增） `Link <https://www.bilibili.com/video/BV1qh411R7AS>`_
+
+Excel操作技巧合集 `Link <https://www.bilibili.com/video/BV1fi4y1x7kn>`_
+
+Excel二级备考 | 计算机二级真题讲解（必看30套完整题库详解与答案） `Link <https://www.bilibili.com/video/BV1EJ411w7hk>`_
+
+Excel功能按钮 | 001 粘贴选项之粘贴 `Link <https://www.bilibili.com/video/BV1P7411d7om>`_
+
+Excel函数案例 | 001 价格更新如何读取？(INDEX+MAX+IF+ROW) `Link <https://www.bilibili.com/video/BV1w7411k7zW>`_
+
+Excel函数案例 | 002 文本重复次数如何计算？(LEN+CONCAT+SUBSTITUTE) `Link <https://www.bilibili.com/video/BV1p7411s7pY>`_
+
+Excel函数案例 | 003 重复数据如何清除？(IFERROR+INDEX+MATCH+COUNTIF) `Link <https://www.bilibili.com/video/BV1t7411h7Aa>`_
+
+Excel函数案例 | 004 重复数据如何清除2？(IFERROR+INDEX+SMALL+IF+MATCH+ROW) `Link <https://www.bilibili.com/video/BV117411b7ks>`_
+
+Excel函数案例 | 005 多条件重复数据如何清除？(COUNTIFS)(&) `Link <https://www.bilibili.com/video/BV1R7411876J>`_
+
+Excel函数案例 | 006 隔行编号如何解决？(IF+CHAR+COUNTIF) `Link <https://www.bilibili.com/video/BV1j7411b7Mz>`_
+
+Excel函数案例 | 007 一对多查询如何实现？(IFERROR+INDEX+SMALL+IF+ROW) `Link <https://www.bilibili.com/video/BV1h741157XC>`_
+
+Excel函数案例 | 008 逆向查询如何实现？（XLOOKUP)(MATCH+INDEX)(VLOOKUP+IF) `Link <https://www.bilibili.com/video/BV1y7411G7R4>`_
+
+Excel函数案例 | 009 数据分档如何实现？(IF+IF+IF)(IFS)(VLOOKUP) `Link <https://www.bilibili.com/video/BV1s741137qf>`_
+
+Excel函数案例 | 010 不重复数如何统计？(SUM+COUNTIF)(SUM+MATCH+ROW) `Link <https://www.bilibili.com/video/BV1A7411g7oq>`_
+
+Excel函数案例 | 011 奖金提成如何计算？(SUMPRODUCT+IF+IF) `Link <https://www.bilibili.com/video/BV1Y7411J7YS>`_
+
+Excel函数案例 | 012 混合文本中数字如何提取？(SUBSTITUTE+TRIM+IFERROR+CONCAT+MID+ROW) `Link <https://www.bilibili.com/video/BV1i741177b2>`_
+
+Excel函数案例 | 013 身份证号码信息如何提取？(VLOOKUP+LEFT)(TEXT+DATE+MID)(IF+MOD+MID) `Link <https://www.bilibili.com/video/BV1u7411j7Zq>`_
+
+Excel函数案例 | 014 身份证号如何验证？(IF+RIGHT+INDEX+MOD+SUM+MID+ROW) `Link <https://www.bilibili.com/video/BV1f7411A7f9>`_
+
+Excel函数案例 | 015 个人最高成绩如何提取？(INDEX+SMALL+IF+MAXIFS+ROW)(FILTER+MAXIFS) `Link <https://www.bilibili.com/video/BV117411w75t>`_
+
+Excel函数案例 | 016 工作簿名称如何提取？(MID+FIND+CELL)(MID+FIND+TRANSPOSE+GET.WORKBOOK) `Link <https://www.bilibili.com/video/BV1v7411T7iW>`_
+
+Excel函数案例 | 017 条件排序数据分档如何实现？(INDEX+MATCH+COUNTIFS+OFFSET) `Link <https://www.bilibili.com/video/BV157411K7zN>`_
+
+Excel函数案例 | 018 随机不重复序列如何生成？(LARGE+IF+COUNTIF+ROW+RANDBETWEEN) `Link <https://www.bilibili.com/video/BV1dE411n7Qb>`_
+
+Excel函数案例 | 019 第N个非空值如何提取？（IFERROR+INDEX+SMALL+IF+COLUMN) `Link <https://www.bilibili.com/video/BV17E411E7Ns>`_
+
+Excel函数案例 | 020 排列组合如何遍历？(INDEX+MOD+INT+ROW) `Link <https://www.bilibili.com/video/BV1pE411j7AT>`_
+
+Excel函数案例 | 021 一对多查询结果如何合并？(SUBSTITUTE+TRIM+CONCAT+INDEX+IF+ROW) `Link <https://www.bilibili.com/video/BV1fE411j7uN>`_
+
+Excel函数案例 | 022 [特别篇]背单词表统计功能如何实现？(SUM+IF+COUNTA+COUNTBLANK) `Link <https://www.bilibili.com/video/BV12E411x7D4>`_
+
+Excel函数案例 | 023 二维区域重复数据如何清除？(INDIRECT+TEXT+MIN+IF+COUNTIF+ROW+COLUMN) `Link <https://www.bilibili.com/video/BV1kE41147jV>`_
+
+Excel函数案例 | 024 二维区域重复数据如何清除2？(TEXT+MIN+IF+COUNTIF)(IFERROR+LARGE+SUM+COUNTIF) `Link <https://www.bilibili.com/video/BV11E411x732>`_
+
+Excel函数案例 | 025 最大连续大于零数如何计算？(MAX+LARGE+IF+ROW+COLUMN) `Link <https://www.bilibili.com/video/BV1SE411g7oY>`_
+
+Excel函数案例 | 026 条件筛选重复种类如何统计？(COUNTA+MATCH+IF+LEN+ROW) `Link <https://www.bilibili.com/video/BV1wE411T7CU>`_
+
+Excel函数案例 | 027 [特别篇]下拉菜单空格如何清除？（OFFSET+COUNTA+COUNTIF) `Link <https://www.bilibili.com/video/BV1WE411V7Lr>`_
+
+Excel函数案例 | 028 重复序列循环序列如何构造？（INT+ROW)(MOD+ROW) `Link <https://www.bilibili.com/video/BV1NE411G742>`_
+
+Excel函数案例 | 029 等差重复循环序列如何构造？（INT+MOD+ROW) `Link <https://www.bilibili.com/video/BV1wE411G7ZJ>`_
+
+Excel函数案例 | 030 二维表转一维表如何实现？（OFFSET+INT+MOD+ROW) `Link <https://www.bilibili.com/video/BV1o7411f7vA>`_
+
+Excel函数案例 | 031 一维表转二维表如何实现？（VLOOKUP+IF) `Link <https://www.bilibili.com/video/BV1E7411d7Lb>`_
+
+Excel函数案例 | 032 特定记录屏蔽去重如何实现？（IFERROR+INDEX+SMALL+IF+COUNTIF+ROW） `Link <https://www.bilibili.com/video/BV1f7411976U>`_
+
+Excel函数案例 | 033 条形码校验码如何计算？（SUM+IF+MOD+MID+COLUMN) `Link <https://www.bilibili.com/video/BV15E411w7VG>`_
+
+Excel函数案例 | 034 小写金额分列填写如何实现？（IF+INT+MOD+ROUND+POWER+COLUMN） `Link <https://www.bilibili.com/video/BV1yE411F7qh>`_
+
+Excel函数案例 | 035 小写金额分列填写如何实现2？（IF+MID+TEXT+REPT+COLUMN) `Link <https://www.bilibili.com/video/BV1g7411m7mR>`_
+
+Excel函数案例 | 036 小写转大写金额如何实现？（IF+INT+TEXT+LEFT+RIGHT) `Link <https://www.bilibili.com/video/BV13p4y1C7VN>`_
+
+Excel函数案例 | 037 自定义查询如何实现？(VLOOKUP+MATCH） `Link <https://www.bilibili.com/video/BV1Pz411b7po>`_
+
+Excel函数案例 | 038 自定义查询如何实现2？(IFNA+INDEX+MATCH） `Link <https://www.bilibili.com/video/BV1tt4y1m7Zx>`_
+
+Excel函数案例 | 039 多条件查询如何实现？（IFNA+INDEX+MATCH+&) `Link <https://www.bilibili.com/video/BV1Kt4y1U7BZ>`_
+
+Excel函数案例 | 040 多对多查询如何实现？（IFERROR+INDEX+SMALL+IF+ROW+MATCH） `Link <https://www.bilibili.com/video/BV1Q541167jT>`_
+
+Excel函数案例 | 041 一对多查询结果如何合并2？（SUBSTITUTE+TRIM+CONCAT+IF） `Link <https://www.bilibili.com/video/BV1Te411x7aq>`_
+
+Excel函数案例 | 042 中国式排名如何实现？（SUM+COUNTIF）（IF） `Link <https://www.bilibili.com/video/BV1aC4y147PS>`_
+
+Excel函数案例 | 043 [特别篇]工作表目录如何提取？（IFERROR+MID+INDEX+ROW+GET.WORKBOOK+T+NOW） `Link <https://www.bilibili.com/video/BV1Mi4y187pN>`_
+
+Excel函数案例 | 044 分组中国式排名如何实现？（SUM+MATCH+ROW）（SUM+COUNTIF） `Link <https://www.bilibili.com/video/BV1aa4y1x76b>`_
+
+Excel函数案例 | 045 求和排序如何实现？（SUM） `Link <https://www.bilibili.com/video/BV1ng4y1z7Wz>`_
+
+Excel函数案例 | 046 任意两科成绩达标人数如何统计？（SUM） `Link <https://www.bilibili.com/video/BV1d5411t7j6>`_
+
+Excel函数案例 | 047 多表汇总查询如何实现？（VLOOKUP+INDIRECT+ADDRESS） `Link <https://www.bilibili.com/video/BV1qT4y1G7ey>`_
+
+Excel函数案例 | 048 中间字符串如何提取？（MID+FIND) `Link <https://www.bilibili.com/video/BV16t4y117wZ>`_
+
+Excel函数案例 | 049 自动记录当前时间如何实现？（IF+NOW) `Link <https://www.bilibili.com/video/BV1WC4y1H7Yu>`_
+
+Excel函数案例 | 050 最大成套数目如何计算？（INT+MIN+VLOOKUP) `Link <https://www.bilibili.com/video/BV1zA411t7WE>`_
+
+Excel函数案例 | 051 右起连续负数如何统计？（COUNT+MAX+IF+COLUMN) `Link <https://www.bilibili.com/video/BV1iz411q7JK>`_
+
+Excel函数案例 | 052 时间段标记如何实现（HOUR+COLUMN) `Link <https://www.bilibili.com/video/BV1We411W7GR>`_
+
+Excel函数案例 | 053 模糊匹配查询如何实现？（IFERROR+INDEX+SMALL+IF+ROW+ISERROR+SEARCH) `Link <https://www.bilibili.com/video/BV11z4y1R7pq>`_
+
+Excel函数案例 | 054 隔列相乘求和如何实现？（SUMPRODUCT+IF+ISODD+COLUMN) `Link <https://www.bilibili.com/video/BV1Ji4y1s76F>`_
+
+Excel函数案例 | 055 隔列相乘求和如何实现2？（SUM+MOD+COLUMN) `Link <https://www.bilibili.com/video/BV1Ka4y1v7TM>`_
+
+Excel函数案例 | 056 倒数第二次平均成绩如何统计？（AVERAGEIF） `Link <https://www.bilibili.com/video/BV1ba4y1e7FS>`_
+
+Excel函数案例 | 057 多字段记录行转列如何实现？ （TRANSPOSE+OFFSET） `Link <https://www.bilibili.com/video/BV1VD4y1Q7vb>`_
+
+Excel函数案例 | 058 SUMIFS条件无法预处理如何解决？（SUMPRODUCT+LEN+MONTH） `Link <https://www.bilibili.com/video/BV1hK4y147FE>`_
+
+Excel函数案例 | 059 多字段记录列转行如何实现？（TRANSPOSE+MID+FIND+OFFSET） `Link <https://www.bilibili.com/video/BV1dT4y1J7B5>`_
+
+Excel函数案例 | 060 时分秒转化小时如何实现？（SUBSTITUTE+EVALUATE) `Link <https://www.bilibili.com/video/BV1354y1q7z5>`_
+
+Excel函数案例 | 061 时分秒转化小时如何实现2？(SUM+MIDB+FINDB) `Link <https://www.bilibili.com/video/BV1vK4y1s7VX>`_
+
+Excel函数案例 | 062 显示余数的除法如何实现？（SUBSTITUTE+TEXT）（INT+MOD） `Link <https://www.bilibili.com/video/BV1Ef4y1R7L8>`_
+
+Excel函数案例 | 063 不重复排列组合如何实现？（COMBIN+COUNT+OFFSET+IF） `Link <https://www.bilibili.com/video/BV1H5411e7Fu>`_
+
+Excel函数案例 | 064 当前工作表名称如何提取？（TRIM+RIGHT+SUBSTITUTE+CELL+REPT） `Link <https://www.bilibili.com/video/BV1tA411e7pw>`_
+
+Excel函数案例 | 065 数据分列功能如何实现？（TRIM+MID+SUBSTITUTE+REPT+COLUMN） `Link <https://www.bilibili.com/video/BV1dK4y1e7ki>`_
+
+Excel函数案例 | 066 文本公式如何计算？（PRODUCT+TRIM+MID+SUBSTITUTE+REPT+COLUMN) `Link <https://www.bilibili.com/video/BV1xt4y1X7jL>`_
+
+Excel函数案例 | 067 企业最新付款时间如何提取？（INDEX+MAX+IF+COLUMN） `Link <https://www.bilibili.com/video/BV1Ph411Z7Zg>`_
+
+Excel函数案例 | 068 自动提取所在目录文件清单如何实现（LEFT+CELL+ROW）（FILES）（IFERROR+INDEX+ROW） `Link <https://www.bilibili.com/video/BV1354y1S7eq>`_
+
+Excel函数案例 | 069 四舍六入五成双如何实现？（ROUND+MOD) `Link <https://www.bilibili.com/video/BV14p4y1i7hX>`_
+
+Excel函数案例 | 070 条件删除文本字符如何实现？(SUBSTITUTE+TRIM+CONCAT+MID+ROW+REPT) `Link <https://www.bilibili.com/video/BV1sD4y1U7zb>`_
+
+Excel函数案例 | 071 QQ等级转换图标如何实现？（CONCAT+REPT+MID+BASE+ROW） `Link <https://www.bilibili.com/video/BV11C4y1b7xm>`_
+
+Excel函数案例 | 072 QQ图标转换等级如何实现？（DECIMAL+CONCAT+LEN+SUBSTITUTE） `Link <https://www.bilibili.com/video/BV1sk4y1m7Tk>`_
+
+Excel函数案例 | 073 指定次数重复如何实现？(IFERROR+INDEX+MATCH+ROW+SUM) `Link <https://www.bilibili.com/video/BV1kC4y1t7PL>`_
+
+Excel函数案例 | 074 指定次数重复如何实现2？(IFERROR+INDEX+SMALL+IF+ROW+COLUMN) `Link <https://www.bilibili.com/video/BV1zt4y1S7fU>`_
+
+Excel函数案例 | 075 指定隔行读取如何实现？（IF+MOD+INDEX+ROUNDUP+ROW) `Link <https://www.bilibili.com/video/BV1Kf4y1X7fQ>`_
+
+Excel函数案例 | 076 二维表多条件求和如何实现？（SUMPRODUCT+OFFSET+MATCH） `Link <https://www.bilibili.com/video/BV12T4y1L7Gg>`_
+
+Excel函数案例 | 077 多条件查询如何实现2？（VLOOKUP+IF) `Link <https://www.bilibili.com/video/BV1Af4y1X7G5>`_
+
+Excel函数案例 | 078 随机排课如何实现？（IF+MATCH+COLUMN+ROW+OFFSET） `Link <https://www.bilibili.com/video/BV1gz4y1Z7By>`_
+
+Excel函数大全 | ABS函数：计算输入数据的绝对值 `Link <https://www.bilibili.com/video/BV1Z441167CB>`_
+
+Excel函数大全 | ADDRESS函数：根据指定行号和列号获得工作表中的某个单元格的地址 `Link <https://www.bilibili.com/video/BV1ht411n7b2>`_
+
+Excel函数大全 | AND函数：逻辑与运算，所有参数为真时返回真值，只要有一个参数为假值则返回假值。 `Link <https://www.bilibili.com/video/BV1Qt411K71n>`_
+
+Excel函数大全 | ARABIC函数：将罗马数字转化为阿拉伯数字 `Link <https://www.bilibili.com/video/BV1f4411B75w>`_
+
+Excel函数大全 | AREAS函数：返回引用中的区域个数。 `Link <https://www.bilibili.com/video/BV1jt41177kV>`_
+
+Excel函数大全 | AVEDEV函数：返回数据组的平均偏差（距算数平均数的平均距离） `Link <https://www.bilibili.com/video/BV1H4411C7Vs>`_
+
+Excel函数大全 | AVERAGEA函数：返回输入参数的平均数（考虑文本和逻辑值） `Link <https://www.bilibili.com/video/BV1z4411C7cr>`_
+
+Excel函数大全 | AVERAGEIFS函数：返回满足多个条件的所有单元格的平均值（算术平均值） `Link <https://www.bilibili.com/video/BV1v4411A7DG>`_
+
+Excel函数大全 | AVERAGEIF函数：返回某个区域内满足给定条件的所有单元格的平均值（算术平均值） `Link <https://www.bilibili.com/video/BV1bx411d7gr>`_
+
+Excel函数大全 | AVERAGE函数：返回参数的平均值 (算术平均值) `Link <https://www.bilibili.com/video/BV1yx411o7Nj>`_
+
+Excel函数大全 | BASE函数：将十进制数字转化为任意进制数（2-36进制） `Link <https://www.bilibili.com/video/BV1b4411z7aA>`_
+
+Excel函数大全 | CEILING函数：返回将参数沿绝对值增大的方向向上舍入为最接近的指定基数的倍数 `Link <https://www.bilibili.com/video/BV1s4411c71Q>`_
+
+Excel函数大全 | CELL函数：返回关于单元格的一些信息，比如地址、格式、内容等 `Link <https://www.bilibili.com/video/BV1F4411r7Xn>`_
+
+Excel函数大全 | CHAR函数：返回字符集中特定序号对应的字符 `Link <https://www.bilibili.com/video/BV1LE41197JG>`_
+
+Excel函数大全 | CHOOSE函数：可以根据索引号从最多 254 个数值中选择一个 `Link <https://www.bilibili.com/video/BV1zt411F72o>`_
+
+Excel函数大全 | CLEAN函数：删除文本中所有不能打印的字符 `Link <https://www.bilibili.com/video/BV1kx411d7pK>`_
+
+Excel函数大全 | CODE函数：返回字符集中特定字符对应的代码 `Link <https://www.bilibili.com/video/BV14E411D7CP>`_
+
+Excel函数大全 | COLUMNS函数：返回数组或引用的列数 `Link <https://www.bilibili.com/video/BV1Zt411J7Do>`_
+
+Excel函数大全 | COLUMN函数：返回给定 单元格引用 的列号 `Link <https://www.bilibili.com/video/BV1Ut411J7r4>`_
+
+Excel函数大全 | COMBIN函数：计算排列组合中的组合数 `Link <https://www.bilibili.com/video/BV1N4411q7Dr>`_
+
+Excel函数大全 | CONCATENATE函数：连接多个文本字符串 `Link <https://www.bilibili.com/video/BV16J411F7kA>`_
+
+Excel函数大全 | CONCAT函数：连接多个区域的文本字符串 `Link <https://www.bilibili.com/video/BV1mE411Z76z>`_
+
+Excel函数大全 | CORREL函数：计算两组数的相关系数 `Link <https://www.bilibili.com/video/BV1xJ411N7gk>`_
+
+Excel函数大全 | COUNTA函数：对选定区域的非空单元格进行计数 `Link <https://www.bilibili.com/video/BV11J411N7RK>`_
+
+Excel函数大全 | COUNTBLANK函数：对选定区域的空白单元格进行计数（包括空文本） `Link <https://www.bilibili.com/video/BV1FJ411K7qH>`_
+
+Excel函数大全 | COUNTIFS函数：统计满足所有条件的次数 `Link <https://www.bilibili.com/video/BV1S4411w7mU>`_
+
+Excel函数大全 | COUNTIF函数：用于统计满足某个条件的单元格的数量 `Link <https://www.bilibili.com/video/BV1ux411d7yv>`_
+
+Excel函数大全 | COUNT函数：计算包含数字的单元格个数以及参数列表中数字的个数 `Link <https://www.bilibili.com/video/BV1Gx411o73B>`_
+
+Excel函数大全 | DATEDIF函数：计算两个日期之间相隔的天数、月数或年数 `Link <https://www.bilibili.com/video/BV15t411V7uX>`_
+
