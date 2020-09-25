@@ -29,6 +29,7 @@ release = '1'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
+    'insegel'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
