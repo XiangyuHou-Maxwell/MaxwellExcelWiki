@@ -7,14 +7,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Maxwell Base'
-copyright = '2020, Xiangyu Hou'
-author = 'Maxwell'
+project = 'Sphinx-Themes template'
+copyright = '2018, sphinx-themes.org'
+author = 'sphinx-themes.org'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.0.1'
+release = '1'
 
 
 # -- General configuration ---------------------------------------------------

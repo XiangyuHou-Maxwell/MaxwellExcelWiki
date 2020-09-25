@@ -11,6 +11,7 @@ html_theme = 'alabaster'
 html_theme_path = ['_themes']
 html_theme = 'dou'
 
+master_doc = 'index'
 
 import sphinx_bootstrap_theme
 html_theme = 'bootstrap'
