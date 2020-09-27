@@ -86,4 +86,5 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
-html_theme = 'python_docs_theme'
+#html_theme = 'python_docs_theme'
+html_theme = 'sphinx_rtd_theme'
