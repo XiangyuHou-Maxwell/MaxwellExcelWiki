@@ -7,14 +7,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '麦克斯威儿'
+project = 'MaxwellSecretBase'
 copyright = '2020, MaxwellEduTech'
 author = 'Xiangyu Hou(Maxwell)'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = '1.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -58,7 +58,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
-
+html_logo = './_static/logo.png'
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -85,4 +85,5 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-html_theme = 'sphinx_rtd_theme'
+
+html_theme = 'python_docs_theme'

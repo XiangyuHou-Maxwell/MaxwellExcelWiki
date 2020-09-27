@@ -5,13 +5,14 @@
 
 
 
-欢迎！
+欢迎来到Maaax的秘密基地！
 ============================================
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
-
+   :caption: 送你一份冒险地图:
+   
+   Pages/Theoretical/TheoreticalIndex
    Pages/VideoList
 
 
